@@ -17,7 +17,7 @@ function containingInteger(arr, num){
             return i;
         }
     }
-    return -1;
+    return false;
 }
 
 console.log(containingInteger( [6,7,8,1] ,4));
