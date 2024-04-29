@@ -57,4 +57,4 @@ function deuximePlusPetitEtplusGrand(arr){
     return { deuxiemePlusGrand, deuxiemePlusPetit };
 }
 
-console.log(deuximePlusPetitEtplusGrand([1,2,4,7,7,5]));
+console.log(deuximePlusPetitEtplusGrand([1,2,4,4,3,7,5]));
