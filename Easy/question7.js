@@ -13,4 +13,4 @@ function binary(arr, target){
     }
     return false;
 }
-console.log(binary([1,4,7,6,9],1));
+console.log(binary([1,4,5,78,7,6,9],1));
